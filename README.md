@@ -1,4 +1,4 @@
-# CloudKey Product Drop — Next.js Starter
+# CloudKey Product Drop - Next.js Starter
 
 A simple starter project for the AWS + Storyblok demo.
 
